@@ -41,7 +41,8 @@ body {
 
     .imgBox {
       padding: 5px;
-      background-color: lightgray;
+      background-color: rgb(235, 235, 235);
+      border: 2px solid red;
       width: 150px;
       height: 150px;
       border-radius: 5px;
